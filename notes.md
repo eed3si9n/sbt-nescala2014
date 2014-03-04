@@ -31,7 +31,7 @@ multiple (github) repos
 3 repos to have separete issue tracking.
 work flow gets complicated when make changes in all three repos.
 
-[Jason (@TheBizzle)][@TheBizzle] made a plugin that makes it semi-automatic to publish to [Bintray][bintray] while development with git sha appended to version.
+[Jason (@TheBizzle)][@TheBizzle] made [a plugin](https://github.com/NetLogo/publish-versioned-plugin) that makes it semi-automatic to publish to [Bintray][bintray] while development with git sha appended to version.
 
 ### [Gary (@gmalouf)][@gmalouf]: Don't use sbt as deployment tool 
 
