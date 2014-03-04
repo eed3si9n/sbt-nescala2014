@@ -9,6 +9,7 @@
   [ansible]: http://www.ansible.com/
   [nexus]: http://www.sonatype.com/nexus
   [bintray]: https://bintray.com/
+  [publish-versioned-plugin]: https://github.com/NetLogo/publish-versioned-plugin
   [1]: https://dl.dropboxusercontent.com/u/1510124/Presentations/better-living-through-sbt/preso.html
   [2]: https://github.com/Banno/banno-sbt-plugin
   [3]: http://code.technically.us/post/9545154150/local-external-projects-in-sbt
@@ -31,7 +32,7 @@ multiple (github) repos
 3 repos to have separete issue tracking.
 work flow gets complicated when make changes in all three repos.
 
-[Jason (@TheBizzle)][@TheBizzle] made [a plugin](https://github.com/NetLogo/publish-versioned-plugin) that makes it semi-automatic to publish to [Bintray][bintray] while development with git sha appended to version.
+[Jason (@TheBizzle)][@TheBizzle] made [publish-versioned-plugin][publish-versioned-plugin] that makes it semi-automatic to publish to [Bintray][bintray] while development with git sha appended to version.
 
 ### [Gary (@gmalouf)][@gmalouf]: Don't use sbt as deployment tool 
 
@@ -48,7 +49,7 @@ even if we don't opensource, it we take the same approach.
 
 we have several teams working on different products, but a lot of common in-house libraries for utilities and wrappers.
 
-so these common libraries are modified by all of us. common libraries becomes contention point.
+so these common libraries are modified by all of us. common libraries become contention points.
 
 ### [Dag (@daggerrz)][@daggerrz]: Modularlize util plugins
 
