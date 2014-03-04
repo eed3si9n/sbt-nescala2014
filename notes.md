@@ -64,7 +64,7 @@ some are changed often. others are not.
 our pain point is that we are hoping that publishLocal.
 (Eugene: Ivy always looks for the last place it grabbed SNAPSHOT; use [sbt-dirty-money][5] to clean the cache for the project) publishLocal should automatically do that.
 
-### [Indrajit (@indrajitr)][@indrajitr]: Source dependency + gitbhu hash
+### [Indrajit (@indrajitr)][@indrajitr]: Source dependency + Github SHA1
 
 if we there's semantic versioning, sbt allows range in the version.
 
