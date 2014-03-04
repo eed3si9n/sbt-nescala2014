@@ -46,10 +46,9 @@ even if we don't opensource, it we take the same approach.
 
 ### [Luke (@rubbish)][@rubbish]: Make util plugins for each tech stack
 
-we have several teams.
-aws-utils, etc 
+we have several teams working on different products, but a lot of common in-house libraries for utilities and wrappers.
 
-we have a cross-cutting thing. common library becomes contention point.
+so these common libraries are modified by all of us. common libraries becomes contention point.
 
 ### [Dag (@daggerrz)][@daggerrz]: Modularlize util plugins
 
