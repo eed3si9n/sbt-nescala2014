@@ -9,7 +9,7 @@
   [ansible]: http://www.ansible.com/
   [nexus]: http://www.sonatype.com/nexus
   [bintray]: https://bintray.com/
-  [1]: http://nescala.org/#talk-37
+  [1]: https://dl.dropboxusercontent.com/u/1510124/Presentations/better-living-through-sbt/preso.html
   [2]: https://github.com/Banno/banno-sbt-plugin
   [3]: http://code.technically.us/post/9545154150/local-external-projects-in-sbt
   [4]: https://gist.github.com/daggerrz/9310300
